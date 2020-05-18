@@ -17,7 +17,6 @@ affiliations:
  - name: School of Science, School of Humanities and Social Sciences, Renselaer Polytechnic Institute
    index: 3
 date: 14 May 2020
-
 ---
 
 # Summary
