@@ -2,13 +2,13 @@
 title: 'SEE: Simple Evolutionary Exploration'
 authors:
   - name: Katrina Gensterblum
-  affiliation: 1
+    affiliation: 1
   - name: Dirk Colbry
-  affiliation: 1
+    affiliation: 1
   - name: Cameron Hurley
-  affiliation: 2
+    affiliation: 2
   - name: Noah Stolz
-  affiliation: 3
+    affiliation: 3
 affiliations:
  - name: Department of Computational Mathematics, Science and Engineering, Michigan State University
    index: 1
