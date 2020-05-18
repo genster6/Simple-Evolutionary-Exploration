@@ -1,6 +1,8 @@
 ---
-title: 'SEE: Simple Evolutionary Exploration'
-authors:
+title: 'SEE: Simple Evolutionary Exploration'  
+tags:
+  - Python
+authors:  
   - name: Katrina Gensterblum
     affiliation: 1
   - name: Dirk Colbry
@@ -17,6 +19,7 @@ affiliations:
  - name: School of Science, School of Humanities and Social Sciences, Renselaer Polytechnic Institute
    index: 3
 date: 14 May 2020
+bibliography: paper.bib
 ---
 
 # Summary
